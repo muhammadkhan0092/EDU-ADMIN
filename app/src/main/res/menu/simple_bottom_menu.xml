@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/fragmentPayments"
+    android:title=""
+    android:icon="@drawable/buy"/>
+
+    <item
+        android:id="@+id/fragmentUsers"
+        android:title=""
+        android:icon="@drawable/person"/>
+
+    <item
+        android:id="@+id/fragmentCourses"
+        android:title=""
+        android:icon="@drawable/learning"/>
+
+    <item
+        android:id="@+id/fragmentSupport"
+        android:title=""
+        android:icon="@drawable/baseline_message_24"/>
+
+
+</menu>

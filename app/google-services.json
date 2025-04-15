@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "444470805873",
+    "firebase_url": "https://classroom-1ce5a-default-rtdb.firebaseio.com",
+    "project_id": "classroom-1ce5a",
+    "storage_bucket": "classroom-1ce5a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444470805873:android:260b885f2ea2a7413562d0",
+        "android_client_info": {
+          "package_name": "com.example.eduadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444470805873-ud7tctg52hv5cvrbptifjfhsq52uagt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhgiwONETO6VzH4Tzzf_mmFR1xHtPa_fI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444470805873-ud7tctg52hv5cvrbptifjfhsq52uagt1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444470805873:android:4d9d1946d37e13ae3562d0",
+        "android_client_info": {
+          "package_name": "com.example.edushieldpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444470805873-ud7tctg52hv5cvrbptifjfhsq52uagt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhgiwONETO6VzH4Tzzf_mmFR1xHtPa_fI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444470805873-ud7tctg52hv5cvrbptifjfhsq52uagt1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444470805873:android:621af388047c485b3562d0",
+        "android_client_info": {
+          "package_name": "com.example.googleclassroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444470805873-d4d0a66fa5crhvdnovfmbpcfu2r3312r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googleclassroom",
+            "certificate_hash": "0d0cb9d8a3fd1678d29c33171d5be18af2c18fd5"
+          }
+        },
+        {
+          "client_id": "444470805873-ud7tctg52hv5cvrbptifjfhsq52uagt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhgiwONETO6VzH4Tzzf_mmFR1xHtPa_fI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444470805873-ud7tctg52hv5cvrbptifjfhsq52uagt1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
